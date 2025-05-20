@@ -49,8 +49,8 @@
 ![WhatsApp Image 2024-12-06 at 08 17 39_75de33e3](https://github.com/user-attachments/assets/d49b40e8-4a3f-474e-983a-92275e0875a1)
 
 
-### Name: Punniyakotti.M
-### Register Number: 24006503
+### Name: BHARANI KUMAR J
+### Register Number: 212224240024
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
